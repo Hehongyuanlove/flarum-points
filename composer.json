@@ -4,6 +4,9 @@
   "keywords": [
     "flarum"
   ],
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "type": "flarum-extension",
   "license": "MIT",
   "require": {
